@@ -1,0 +1,15 @@
+POST_START
+1
+Teona
+Introducere in C++
+C++ este un limbaj de programare puternic si complex.
+0 0 0
+COMMENT:Comentariu test
+POST_END
+POST_START
+2
+Lidia
+Reteta de Paste
+Azi vom gati paste carbonara delicioase.
+0 0 0
+POST_END

@@ -1,0 +1,21 @@
+# Fișiere obiect și binare
+*.o
+*.obj
+*.exe
+*.out
+*.app
+
+# Foldere de build
+/build/
+/bin/
+/output/
+
+# Fișiere generate de IDE-uri
+.vscode/
+.idea/
+*.user
+*.swp
+*.DS_Store
+
+# Fișiere temporare
+*.log

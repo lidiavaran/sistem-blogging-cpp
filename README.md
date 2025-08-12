@@ -29,18 +29,16 @@ Acest sistem de blogging este implementat în C++ folosind programare orientată
 
 ## Structura proiectului
 
-/sistem-blogging
-│
-├── app1.cpp               # Aplicația pentru gestionarea postărilor (Student 1)
-├── app2.cpp               # Aplicația pentru interacțiuni cititor (Student 2)
-├── shared/
-│   ├── BlogSystem.cpp     # Implementarea clasei BlogSystem
-│   ├── BlogSystem.h       # Definiția clasei BlogSystem
-│   ├── Post.cpp           # Implementarea clasei Post
-│   └── Post.h             # Definiția clasei Post
-├── blog_data.txt          # Fișier pentru stocarea postărilor (generat la rulare)
-├── .gitignore             # Fișiere și foldere ignorate de Git
-└── README.md              # Documentația proiectului
+- **app1.cpp** — Aplicația pentru gestionarea postărilor (Student 1)  
+- **app2.cpp** — Aplicația pentru interacțiuni cititor (Student 2)  
+- **shared/**  
+  - `BlogSystem.cpp` — Implementarea clasei BlogSystem  
+  - `BlogSystem.h` — Definiția clasei BlogSystem  
+  - `Post.cpp` — Implementarea clasei Post  
+  - `Post.h` — Definiția clasei Post  
+- **blog_data.txt** — Fișier pentru stocarea postărilor (generat la rulare)  
+- **.gitignore** — Fișiere și foldere ignorate de Git  
+- **README.md** — Documentația proiectului  
 
 ## Compilare
 
@@ -78,3 +76,4 @@ Adaugă o reacție de tip "like" la postarea cu id 2: ./output/app2 react 2 like
 
 ## Autor
 Văran Lidia - https://github.com/lidiavaran
+

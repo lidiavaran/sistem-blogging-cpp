@@ -4,6 +4,7 @@
 *.exe
 *.out
 *.app
+*.gch
 
 # Foldere de build
 /build/
